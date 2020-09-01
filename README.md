@@ -1,10 +1,6 @@
 ### Hi there 👋, This is Bala!
 #### A Full Stack Developer 🚀 from India
 
----
-
-**Socials:** 
-
 <a href="https://www.linkedin.com/in/balaraman08/">
   <img align="left" alt="Bala's LinkedIn" width="20px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
@@ -14,6 +10,7 @@
 <a href="https://www.instagram.com/balaraman_08/">
   <img align="left" alt="Bala's Instagram" width="20px" src="https://image.flaticon.com/icons/svg/1384/1384063.svg" />
 </a>
+
 <br/>
 
 **About:** 
