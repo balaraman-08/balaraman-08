@@ -16,7 +16,7 @@
 **About:** 
 
 - 📝[Resume](https://drive.google.com/file/d/1LNIfqS3ahY24vSBSXt9vuTTp5ca6sIJB/view?usp=sharing)
-- 💬 Ask me about backend (ExpressJS, NestJS) and frontend (React), I'm would like to help
+- 💬 Ask me about backend (ExpressJS, NestJS) and frontend (React), I would like to help
 - 📫 How to reach me: [balaramanmuthupandi@gmail.com](mailto:balaramanmuthupandi@gmail.com?subject=via%20Github%20Profile)
 - 😄 Pronouns: he/his/him
 
